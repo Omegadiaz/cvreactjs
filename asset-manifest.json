@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cvreactjs/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cvreactjs/static/js/main.7054b2da.chunk.js",
+    "main.js.map": "/cvreactjs/static/js/main.7054b2da.chunk.js.map",
+    "runtime-main.js": "/cvreactjs/static/js/runtime-main.247f765c.js",
+    "runtime-main.js.map": "/cvreactjs/static/js/runtime-main.247f765c.js.map",
+    "static/js/2.71d637c0.chunk.js": "/cvreactjs/static/js/2.71d637c0.chunk.js",
+    "static/js/2.71d637c0.chunk.js.map": "/cvreactjs/static/js/2.71d637c0.chunk.js.map",
+    "index.html": "/cvreactjs/index.html",
+    "precache-manifest.2079bd9a3ebf1ce841b085b6932e93bd.js": "/cvreactjs/precache-manifest.2079bd9a3ebf1ce841b085b6932e93bd.js",
+    "service-worker.js": "/cvreactjs/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cvreactjs/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.71d637c0.chunk.js.LICENSE.txt": "/cvreactjs/static/js/2.71d637c0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cvreactjs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.247f765c.js",
+    "static/js/2.71d637c0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7054b2da.chunk.js"
+  ]
+}
